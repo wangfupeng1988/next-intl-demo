@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "你好世界!",
+    "about": "这是 About 页",
+    "blog1": "博客1"
+  },
+  "AboutPage": {
+    "title": "About 页面"
+  },
+  "BlogPage": {
+    "title": "Blog 页面",
+    "content": "这是博客内容, id 是 {id}"
+  },
+  "LocaleSwitcher": {
+    "label": "修改语言",
+    "locale": "{locale, select, zh_cn {🇨🇳 中文} en {🇺🇸 英语} other {其他}}"
+  }
+}
